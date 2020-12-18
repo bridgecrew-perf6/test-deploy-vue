@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/test-deploy-vue/precache-manifest.c7e4e86cb821f7b3b4ecf3bd65c2fa72.js"
+  "/test-deploy-vue/precache-manifest.369fde11eeb24c01e52b6c4de4bc5eb8.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "pluto_frontend"});
